@@ -16,6 +16,8 @@ public class Sample {
 		
 		
 		System.out.println("this is c");
+		
+		System.out.println("this is d");
 	}
 	
 
