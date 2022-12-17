@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-12-15T17:50:32 IST" name="Default suite" finished-at="2022-12-15T17:50:32 IST" duration-ms="129">
+  <suite started-at="2022-12-17T17:04:10 IST" name="Default suite" finished-at="2022-12-17T17:04:10 IST" duration-ms="99">
     <groups>
     </groups>
-    <test started-at="2022-12-15T17:50:32 IST" name="Default test" finished-at="2022-12-15T17:50:32 IST" duration-ms="129">
-      <class name="Demo.Sample">
-        <test-method signature="sampleTest()[pri:0, instance:Demo.Sample@419c5f1a]" started-at="2022-12-15T17:50:32 IST" name="sampleTest" finished-at="2022-12-15T17:50:32 IST" duration-ms="25" status="PASS">
+    <test started-at="2022-12-17T17:04:10 IST" name="Default test" finished-at="2022-12-17T17:04:10 IST" duration-ms="99">
+      <class name="createOrganizations.createOrg">
+        <test-method signature="TC_215()[pri:0, instance:createOrganizations.createOrg@419c5f1a]" started-at="2022-12-17T17:04:10 IST" name="TC_215" finished-at="2022-12-17T17:04:10 IST" duration-ms="15" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- sampleTest -->
-      </class> <!-- Demo.Sample -->
+        </test-method> <!-- TC_215 -->
+      </class> <!-- createOrganizations.createOrg -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
